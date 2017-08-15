@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultWalkableSystem", "VaultWalkableSystem.csproj", "{7DC34FB7-D754-84E5-ED1E-6E6D6EECDAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultWalkableSystem.Editor", "VaultWalkableSystem.Editor.csproj", "{D947A19B-433B-6794-02BB-7E628A339D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC34FB7-D754-84E5-ED1E-6E6D6EECDAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC34FB7-D754-84E5-ED1E-6E6D6EECDAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC34FB7-D754-84E5-ED1E-6E6D6EECDAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC34FB7-D754-84E5-ED1E-6E6D6EECDAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D947A19B-433B-6794-02BB-7E628A339D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D947A19B-433B-6794-02BB-7E628A339D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D947A19B-433B-6794-02BB-7E628A339D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D947A19B-433B-6794-02BB-7E628A339D16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
